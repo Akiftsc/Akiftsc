@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on a Café Project.
+- 🌱 I’m currently learning Python and TypeScript
+- 📫 How to reach via e-mail: akiftsc41@gmail.com
 <!--
 **Akiftsc/Akiftsc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
