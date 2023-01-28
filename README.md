@@ -3,8 +3,7 @@
          height="45"
          width="45" /> I'm Akif</h1>
 
-- 🔭 I’m currently working on a Café Project.
-- 🌱 I’m currently learning Python and TypeScript
+- 🌱 I’m currently learning React and TypeScript
 - 📫 Contact me via e-mail: akiftsc41@gmail.com
 
  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://akif72.medium.com) 
